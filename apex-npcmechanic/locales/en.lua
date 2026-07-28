@@ -1,0 +1,26 @@
+Locales = Locales or {}
+
+Locales.en = {
+    vehicle_too_healthy = 'This vehicle does not currently need repair.',
+    insufficient_money = 'You do not have enough money for the repair.',
+    invalid_request = 'The repair service could not be started.',
+    cancel = 'Cancel',
+    plate = 'Plate',
+    roadside_command_disabled = 'The roadside mechanic service is disabled.',
+    roadside_no_vehicle = 'No nearby vehicle was found for the mechanic call.',
+    roadside_leave_vehicle = 'Exit the vehicle so the mechanic can repair it.',
+    roadside_busy = 'You already have an active mechanic call.',
+    roadside_global_busy = 'All roadside mechanics are currently busy. Try again shortly.',
+    roadside_cooldown = 'You can request another mechanic in %s seconds.',
+    roadside_dispatch_title = 'Roadside Mechanic',
+    roadside_dispatch_header = 'Request roadside mechanic: $%s',
+    roadside_dispatch_description = 'Vehicle: %s | Damage: %s%% | Includes $%s dispatch fee',
+    roadside_confirm = 'Dispatch mechanic',
+    roadside_dispatched = 'A roadside mechanic has been dispatched. Wait for arrival.',
+    roadside_arrived = 'The mechanic arrived and is walking to the bonnet.',
+    roadside_repairing = 'The mechanic started repairing the vehicle.',
+    roadside_complete = 'The vehicle was fully repaired for $%s.',
+    roadside_failed = 'The roadside mechanic could not arrive. The call was cancelled and refunded.',
+    roadside_spawn_failed = 'No suitable road position was found for the mechanic truck.',
+    roadside_truck_blip = 'Roadside Mechanic',
+}

@@ -1,0 +1,26 @@
+Locales = Locales or {}
+
+Locales.ar = {
+    vehicle_too_healthy = 'المركبة لا تحتاج إلى إصلاح حالياً.',
+    insufficient_money = 'لا تمتلك المبلغ الكافي للإصلاح.',
+    invalid_request = 'تعذر بدء عملية الإصلاح.',
+    cancel = 'إلغاء',
+    plate = 'اللوحة',
+    roadside_command_disabled = 'خدمة ميكانيكي الطريق غير مفعلة.',
+    roadside_no_vehicle = 'لا توجد مركبة قريبة لطلب الميكانيكي لها.',
+    roadside_leave_vehicle = 'اخرج من المركبة حتى يستطيع الميكانيكي إصلاحها.',
+    roadside_busy = 'لديك طلب ميكانيكي قائم بالفعل.',
+    roadside_global_busy = 'جميع ميكانيكيي الطريق مشغولون حالياً، حاول بعد قليل.',
+    roadside_cooldown = 'يمكنك طلب ميكانيكي آخر بعد %s ثانية.',
+    roadside_dispatch_title = 'ميكانيكي الطريق',
+    roadside_dispatch_header = 'طلب ميكانيكي الطريق: $%s',
+    roadside_dispatch_description = 'المركبة: %s | التلف: %s%% | تشمل رسوم وصول $%s',
+    roadside_confirm = 'إرسال الميكانيكي',
+    roadside_dispatched = 'تم إرسال ميكانيكي الطريق إليك، انتظر وصوله.',
+    roadside_arrived = 'وصل الميكانيكي وبدأ التوجه إلى مقدمة المركبة.',
+    roadside_repairing = 'الميكانيكي بدأ إصلاح المركبة.',
+    roadside_complete = 'تم إصلاح المركبة بالكامل مقابل $%s.',
+    roadside_failed = 'تعذر وصول ميكانيكي الطريق وتم إلغاء الطلب واسترجاع المبلغ.',
+    roadside_spawn_failed = 'تعذر إيجاد مكان مناسب لوصول سيارة الميكانيكي.',
+    roadside_truck_blip = 'ميكانيكي الطريق',
+}
