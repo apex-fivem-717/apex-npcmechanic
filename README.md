@@ -8,3 +8,5 @@
 4- بعد ما يخلص يرجع للسطحة ويمشي.
 
 للدعم الفني : https://discord.gg/apex1
+
+السكربت بالكامل بحقوق متجر Apex Fivem : https://discord.gg/h7U9xat5yd
