@@ -3,4 +3,4 @@
 https://discord.gg/h7U9xat5yd
 https://discord.gg/h7U9xat5yd
 https://discord.gg/h7U9xat5yd
-https://discord.gg/apex1
+https://discord.gg/h7U9xat5yd
